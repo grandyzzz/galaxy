@@ -1,5 +1,7 @@
 # Galaxy
 
+https://galaxy-grandyzzz.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
